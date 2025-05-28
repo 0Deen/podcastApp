@@ -34,4 +34,3 @@ const LeftSidebar = () => {
             <p>{label} </p>
           </Link>
         })
-// files will be updated soon
