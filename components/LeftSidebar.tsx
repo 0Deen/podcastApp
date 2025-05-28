@@ -34,13 +34,4 @@ const LeftSidebar = () => {
             <p>{label} </p>
           </Link>
         })
-        }
-    </nav>
-    </section>
-  )
-}
-
-export default LeftSidebar
-
-
 // files will be updated soon
